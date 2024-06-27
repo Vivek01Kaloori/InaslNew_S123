@@ -50,6 +50,6 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _dissolveStrength: 1.6849986
+    - _dissolveStrength: 7.275119
     m_Colors: []
   m_BuildTextureStacks: []
